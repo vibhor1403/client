@@ -9,5 +9,7 @@ Example: If the executable file is 'client', then client code can be run like th
 
 
 Currently, the server hosts an in memory hash based key value store.
-to set a value, we need to give command 'set <key> <value>'
-to get values from store, 'get <key>'
+
+to set a value, we need to give command 'set \<key\> \<value\>'
+
+to get values from store, 'get \<key\>'
